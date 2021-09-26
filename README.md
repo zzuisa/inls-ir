@@ -24,15 +24,15 @@ The following documents will record the entire process, and instructions for usa
 
 > Data Overview
 
-<img src="https://gitee.com/internet_plus/inls-meet-ir/blob/master/img/1.png" alt="image-20210923220928545" style="zoom:30%;" />
+<img src="https://github.com/zzuisa/inls-ir/blob/master/img/1.png" alt="image-20210923220928545" style="zoom:30%;" />
 
 > Train-Set
 
-<img src="https://gitee.com/internet_plus/inls-meet-ir/blob/master/img/2.png" alt="image-20210923220950206" style="zoom:30%;" />
+<img src="https://github.com/zzuisa/inls-ir/blob/master/img/2.png" alt="image-20210923220950206" style="zoom:30%;" />
 
 > Test-Set
 
-<img src="https://gitee.com/internet_plus/inls-meet-ir/blob/master/img/3.png" alt="image-20210923221009862" style="zoom:30%;" />
+<img src="https://github.com/zzuisa/inls-ir/blob/master/img/3.png" alt="image-20210923221009862" style="zoom:30%;" />
 
 #### Data Collection:
 
@@ -44,7 +44,7 @@ The following documents will record the entire process, and instructions for usa
 
 **About 3000 columns of data that have been manually modified**
 
-<img src="https://gitee.com/internet_plus/inls-meet-ir/blob/master/img/4.png" alt="image-20210926170752983" style="zoom:50%;" />
+<img src="https://github.com/zzuisa/inls-ir/blob/master/img/4.png" alt="image-20210926170752983" style="zoom:50%;" />
 
 
 
