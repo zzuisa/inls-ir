@@ -157,8 +157,8 @@ Bidirectional Encoder Representations from Transformers (BERT) is a transformer-
 - download  pre-trained models and dataset from kaggle: https://www.kaggle.com/zzuisa/praxisprojekt-inls-meet-ir-v-20-political-bias , and move them into data folder and models folder.
 
 ```bash
-git clone https://gitee.com/internet_plus/inls-meet-ir
-cd ./inls-meet-ir
+git clone https://github.com/zzuisa/inls-ir
+cd ./inls-ir
 pip install -r requirement.txt
 # (python3.8.5)  
 jupyter notebook
